@@ -3,8 +3,6 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import './detail.dart';
-import './adddata.dart';
 
 void main() {
   runApp(new MaterialApp(
